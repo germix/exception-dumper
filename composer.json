@@ -1,0 +1,13 @@
+{
+    "name": "germix/exception-dumper",
+    "type": "library",
+    "description": "Dump exceptions to file",
+    "license": "GPL-3.0-or-later",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Germix\\ExceptionDumper\\": "src"
+        }
+    }
+}
